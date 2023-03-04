@@ -123,3 +123,6 @@ follow the GitHub [logo guidelines](https://github.com/logos).
 # GitHub-Desktop
 desktop 汉化包     
 # 参考：https://github.com/desktop/desktop
+# GitHub-Desktop
+desktop 汉化包     
+# 参考：https://github.com/desktop/desktop
