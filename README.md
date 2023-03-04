@@ -1,2 +1,3 @@
 # GitHub-Desktop
-desktop 汉化包
+desktop 汉化包     
+# 参考：https://github.com/desktop/desktop
